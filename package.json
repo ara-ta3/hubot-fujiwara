@@ -1,0 +1,19 @@
+{
+  "name": "hubot-fujiwara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ara-ta3/hubot-fujiwara.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ara-ta3/hubot-fujiwara/issues"
+  },
+  "homepage": "https://github.com/ara-ta3/hubot-fujiwara#readme"
+}
