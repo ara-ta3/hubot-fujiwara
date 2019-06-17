@@ -20,5 +20,8 @@
     "hubot-test-helper": "^1.9.0",
     "mocha": "^6.1.4",
     "power-assert": "^1.6.1"
+  },
+  "dependencies": {
+    "fujiwara": "^0.4.0"
   }
 }
