@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ara-ta3/hubot-fujiwara/issues"
   },
-  "homepage": "https://github.com/ara-ta3/hubot-fujiwara#readme"
+  "homepage": "https://github.com/ara-ta3/hubot-fujiwara#readme",
+  "devDependencies": {
+    "hubot-test-helper": "^1.9.0",
+    "mocha": "^6.1.4",
+    "power-assert": "^1.6.1"
+  }
 }
